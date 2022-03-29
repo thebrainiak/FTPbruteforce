@@ -1,0 +1,5 @@
+# FTPbruteforce
+Fuerza bruta y testeo de usuario anónimo para FTP
+
+AÑADE TU WORDLIST O SUSTITUYE EL ARCHIVO DE PRUEBA
+SI ENCUENTRA USUARIO ANonymous NO REALIZARÁ EL BRUTEFORCE
