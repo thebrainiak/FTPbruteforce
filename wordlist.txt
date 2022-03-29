@@ -1,0 +1,10 @@
+anon
+anonymous
+password
+admin
+12345678
+admin123
+admin12345
+12345admin
+anon12345
+anon123
